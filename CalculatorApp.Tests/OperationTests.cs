@@ -1,7 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools;
-using CalculatorApp.Operations;
+﻿using CalculatorApp.Operations;
 using CalculatorApp.Interfaces;
-using System;
 
 namespace CalculatorApp.Tests
 {
